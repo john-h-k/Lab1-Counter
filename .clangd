@@ -1,0 +1,5 @@
+CompileFlags: # Tweak the parse settings, example directory given to show format
+  Add:
+    - "-std=c++20"
+    - "-Iobj_dir"
+    - "-I/opt/homebrew/Cellar/verilator/5.028/share/verilator/include"
